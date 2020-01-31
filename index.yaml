@@ -1,3 +1,25 @@
 apiVersion: v1
-entries: {}
-generated: "2020-01-30T22:05:42.836676224+09:00"
+entries:
+  gitlab-ce:
+  - appVersion: 9.4.1
+    created: "2020-01-31T11:28:13.229287605+09:00"
+    deprecated: true
+    description: GitLab Community Edition
+    digest: ffb8012fcc15ac3623a1f59bab06a585f21f556628d9228d37c8b5a640dd6926
+    home: https://about.gitlab.com
+    icon: https://gitlab.com/uploads/group/avatar/6543/gitlab-logo-square.png
+    keywords:
+    - git
+    - ci
+    - deploy
+    - issue tracker
+    - code review
+    - wiki
+    name: gitlab-ce
+    sources:
+    - https://hub.docker.com/r/gitlab/gitlab-ce/
+    - https://docs.gitlab.com/omnibus/
+    urls:
+    - https://onek0708.github.com/gitlabchart/gitlab-ce-0.2.2.tgz
+    version: 0.2.2
+generated: "2020-01-31T11:28:13.227631633+09:00"
